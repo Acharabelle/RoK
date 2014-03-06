@@ -1,0 +1,513 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Avensis Creative HTML5 & CSS3 TEMPLATE</title>
+	
+	<meta name="author" content="B.Petkov">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Pacifico:400' rel='stylesheet' type='text/css'>
+	<link href='bootstrap/css/bootstrap.css' rel='stylesheet' type='text/css'>
+	<link href='css/font-awesome.css' rel='stylesheet' type='text/css'>
+
+	<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+  <script type="text/javascript" src="js/scroll.js"></script>
+  <link href='css/scroll.css' rel='stylesheet' type='text/css'>
+  <meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <link href='css/main.css' rel='stylesheet' type='text/css'>
+   <link href='css/common.css' rel='stylesheet' type='text/css'>
+  <link href='css/anim.css' rel='stylesheet' type='text/css'>
+  <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
+  
+  	<script type="text/javascript" src="js/video_header.js"></script>
+	<link href="css/video_header.css" media="all" rel="stylesheet" type="text/css">
+
+  
+	<script>
+	  $(document).ready(function(){
+      $(".main").onepage_scroll({
+        sectionContainer: "section",
+        responsiveFallback: 600
+      });
+		});
+		
+	</script>
+	    <script>
+
+		jQuery(function(){
+            if (self.location.href == top.location.href){
+                var logo=$("<a href='' style='position:absolute;top:0;z-index:1000'></a>");
+                $("#wrapper").prepend(logo);
+                $("#logo").fadeIn();
+            }
+
+            jQuery(".player").mb_YTPlayer();
+		});
+
+	</script>
+</head>
+<body>
+  <div class="wrapper">
+  
+  <!-- BEGIN NAVIGATION -->
+  <div class="sticky-wrapper">
+  <nav class="my-sticky-nav">
+	<div id="logo">
+		<a>
+			<img alt="logo" src="data/logo_small.png">
+		</a>
+	</div>
+	<ul id="nav">
+		<li class="menu-item"><a class="active" data-index="1" href="#1">HOME</a></li>
+		<li class="menu-item"><a title="Portfolio" data-index="2" href="#2">OUR PROJECTS</a></li>
+		<li class="menu-item"><a title="aboutus" data-index="3" href="#3">ABOUT US</a></li>
+		<li class="menu-item"><a title="About" data-index="4" href="#4">OUR TEAM</a></li>
+		<li class="menu-item"><a data-index="5" href="#5">CONTACT</a></li>
+	</ul>
+  </nav>
+  </div>
+  
+    <!-- BEGIN PAGE HOLDER -->
+  
+  <div class="main">
+	  	  
+	  
+ 	<!-- BEGIN PAGE 1 -->
+	
+      <section class="page1 video">
+
+        <div class="page_container anim">
+          <h1>Think different</h1>
+          <h2>Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar.</h2>
+			<a id="P2" class="player" data-property="{videoURL:'jgqt2NjvtTw',containment:'body',autoPlay:true, showControls:false, mute:true, startAt:0, opacity:1}">My video</a> 
+			<a id="bgndVideo" class="player mb_YTVPlayer" data-property="{videoURL:'http://www.youtube.com/watch?v=jgqt2NjvtTw',containment:'body',autoPlay:true, mute:true, startAt:40, stopAt:22, opacity:1}" style="display: none; background-image: none; background-position: initial initial; background-repeat: initial initial;" title="Lexus IS">youtube</a>		  		
+          <div class="btns">
+  	        <a class="btn btn-default btn-outline btn-lg" data-index="2" href="#2">Our projects</a>
+  	      </div>
+		<div class="social_module">
+			<ul>
+				<li><a href="#link"><i class="icon icon_footer">F</i></a></li>
+				<li><a href="#link"><i class="icon icon_footer">L</i></a></li>
+				<li><a href="#link"><i class="icon icon_footer">E</i></a></li>
+				<li><a href="#link"><i class="icon icon_footer">D</i></a></li>
+				<li><a href="#link"><i class="icon icon_footer">I</i></a></li>
+			</ul>
+		</div>
+
+
+  	    </div>
+      </section>
+  
+	 	<!-- BEGIN PAGE 2 -->   
+	  
+	   <section class="page2">
+
+	   <div class="page_container anim-none">
+	            <h1>Our projects</h1>
+          <h2>You want to see your project here? 
+				No problem! Just contact us.</h2>
+		  <hr class="half-rule">
+		   <div id="portfolio" class="carousel slide carousel-fade" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators dark-indicators">
+    <li data-target="#portfolio" data-slide-to="0" class="active"></li>
+    <li data-target="#portfolio" data-slide-to="1"></li>
+	<li data-target="#portfolio" data-slide-to="2"></li>
+  </ol>
+        <div  class="carousel-inner portfolio">
+          <div class="item slide slide1 active">
+            <div class="content">
+              <h2>Inovation <span class="new">NEW</span></h2>
+              <p>Etiam quis risus quis libero venenatis fermentum id ut risus. Suspendisse porta condimentum elit, non venenatis turpis aliquam sit amet. Aenean eu ornare nibh. Cras posuere massa nec nisl lacinia, eget fermentum nunc vehicula. Vestibulum cursus leo est, vitae laoreet purus tempor vel. Fusce condimentum nec nisl sed vestibulum.</p>
+			  <a class="btn MT_20  btn-default btn-outline" href="#yourlinkhere">External Link</a>
+            </div>
+            <div class="image">
+              <a href="#" target="_blank">
+                <img src="data/slide1.png" alt="Slider 1">
+              </a>
+            </div>
+          </div>
+          <div class="item slide slide2" >
+            <div class="image">
+             <a href="#" target="_blank"> <img src="data/slide2.png" alt="Slider 1"></a>
+            </div>
+			 <div class="content">
+              <h2>Ideas for life <span class="new">NEW</span> </h2>
+              <p>Etiam quis risus quis libero venenatis fermentum id ut risus. Suspendisse porta condimentum elit, non venenatis turpis aliquam sit amet. Aenean eu ornare nibh. Cras posuere massa nec nisl lacinia, eget fermentum nunc vehicula. Vestibulum cursus leo est, vitae laoreet purus tempor vel. Fusce condimentum nec nisl sed vestibulum.</p>
+			  <a class="btn MT_20  btn-default btn-outline" href="#yourlinkhere">External Link</a>
+            </div>
+          </div>
+          <div class="item slide slide3">
+            <div class="content">
+              <h2>A diamont is forever</h2>
+              <p>Etiam quis risus quis libero venenatis fermentum id ut risus. Suspendisse porta condimentum elit, non venenatis turpis aliquam sit amet. Aenean eu ornare nibh. Cras posuere massa nec nisl lacinia, eget fermentum nunc vehicula. Vestibulum cursus leo est, vitae laoreet purus tempor vel. Fusce condimentum nec nisl sed vestibulum.</p>
+			  <a class="btn MT_20  btn-default btn-outline" href="#yourlinkhere">External Link</a>
+            </div>
+            <div class="image">
+             <a href="#" target="_blank"><img src="data/slide3.png" alt="Slider 1"></a>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+	  </div>
+	   </section>
+	   
+	   
+	<!-- BEGIN PAGE 3 -->   	  
+	  
+	  <section class="page3">
+	      <div class="page_container anim-none">
+          <h1>ABOUT US</h1>
+          <h2>We will help you to succeed</h2>
+		  		  <hr class="half-rule">
+ <div id="carousel-fade" class="carousel slide carousel-fade" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-fade" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-fade" data-slide-to="1"></li>
+	<li data-target="#carousel-fade" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item slide1 active">
+		<div class="column-section clearfix">
+						<div class="column one-third align-center slide1-part1">
+						<i class="fa fa-eye fa-4x white"></i>
+							<h4><strong>Our Vsion</strong></h4>
+							<p>
+							Nullam vulputate nibh at nisi, nec nunc iaculis. Nulla porttitor neque vitae ligula luctus imperdiet molestie at dui.
+						</p>
+					  </div>
+					  <div class="column one-third align-center slide1-part2" >
+						<i class="fa fa-rocket fa-4x white"></i>
+							<h4><strong>Our Mission</strong></h4>
+							<p>
+							Nullam vulputate nibh at nisi, nec nunc iaculis. Nulla porttitor neque vitae ligula luctus imperdiet molestie at dui.
+						</p>
+					  </div>
+					  <div class="column one-third last-col align-center slide1-part3">
+						<i class="fa fa-cogs fa-4x white"></i>
+							<h4><strong>Our Strategy</strong></h4>
+							<p>
+							Nullam vulputate nibh at nisi, nec nunc iaculis. Nulla porttitor neque vitae ligula luctus imperdiet molestie at dui.
+						</p>
+					  </div>
+		</div>
+	</div>
+
+	
+    <div class="item slide2">
+				<div class="column-section clearfix slide2-part1">
+                	<div class="column one-third iconbox clearfix">
+                  	<i class="fa fa-laptop fa-2x fa-fw"></i>
+                    	<div class="iconbox-content">
+                      	<h5><strong>Responsive Layout</strong></h5>
+                         <p>
+                         Ferri reque integre mea ut, eu eos vide errem noluise se. Putent laoreet et ius utroque dissentias ut.
+                        	</p>
+                    	</div>
+                  </div>
+                  <div class="column one-third iconbox clearfix">
+                  	<i class="fa fa-pencil fa-2x fa-fw"></i>
+                    	<div class="iconbox-content">
+                      	<h5><strong>Modern Design</strong></h5>
+                         <p>
+                         Ferri reque integre mea ut, eu eos vide errem noluise se. Putent laoreet et ius utroque dissentias ut.
+                        	</p>
+                    	</div>
+                  </div>
+                  <div class="column one-third last-col iconbox clearfix">
+                  	<i class="fa fa-flag fa-2x fa-fw"></i>
+                    	<div class="iconbox-content">
+                      	<h5><strong>Font Awesome Icons</strong></h5>
+                         <p>
+                         Ferri reque integre mea ut, eu eos vide errem noluise se. Putent laoreet et ius utroque dissentias ut.
+                        	</p>
+                    	</div>
+                  </div>
+            	</div>
+				
+				<div class="column-section clearfix slide2-part2">
+                	<div class="column one-third iconbox clearfix">
+                  	<i class="fa fa-plane fa-2x fa-fw"></i>
+                    	<div class="iconbox-content">
+                      	<h5><strong>Ajax Portfolio</strong></h5>
+                         <p>
+                         Ferri reque integre mea ut, eu eos vide errem noluise se. Putent laoreet et ius utroque dissentias ut.
+                        	</p>
+                    	</div>
+                  </div>
+                  <div class="column one-third iconbox clearfix">
+                  	<i class="fa fa-tint fa-2x fa-fw"></i>
+                    	<div class="iconbox-content">
+                      	<h5><strong>Color Options</strong></h5>
+                         <p>
+                         Ferri reque integre mea ut, eu eos vide errem noluise se. Putent laoreet et ius utroque dissentias ut.
+                        	</p>
+                    	</div>
+                  </div>
+                  <div class="column one-third last-col iconbox clearfix">
+                  	<i class="fa fa-headphones fa-2x fa-fw"></i>
+                    	<div class="iconbox-content">
+                      	<h5><strong>Audio Support</strong></h5>
+                         <p>
+                         Ferri reque integre mea ut, eu eos vide errem noluise se. Putent laoreet et ius utroque dissentias ut.
+                        	</p>
+                    	</div>
+                  </div>
+            	</div>				
+	</div>	
+	
+	   <div class="item slide3">
+			<div class="column-section clearfix align-center">
+				<div class="column one-fourth slide3-part1">
+					<i class="fa fa-check-square-o fa-3x fw"></i>
+					<div class="counter">
+						<div class="counter-value">237</div>
+						<h6 class="counter-name"><strong>Projects Completed</strong></h6>
+					</div>
+				</div>
+				<div class="column one-fourth slide3-part2">
+				<i class="fa fa-coffee fa-3x fw"></i>
+					<div class="counter">
+						<div class="counter-value">21589</div>
+						<h6 class="counter-name"><strong>Cups Consumed</strong></h6>
+				</div>
+			  </div>
+			  <div class="column one-fourth slide3-part1">
+				<i class="fa fa-thumbs-o-up fa-3x fw"></i>
+				<div class="counter">
+						<div class="counter-value">118</div>
+						<h6 class="counter-name"><strong>Satisfied Clients</strong></h6>
+				</div>
+			  </div>
+			  <div class="column one-fourth last-col slide3-part2">
+				<i class="fa fa-cutlery fa-3x fw"></i>
+				<div class="counter">
+						<div class="counter-value">667</div>
+						<h6 class="counter-name"><strong>Pizza's ordered</strong></h6>
+					</div>
+			  </div>
+			</div>
+	   </div>
+	
+	
+	
+  	    </div>
+	</div>
+</div>
+      </section>  
+	   
+	   
+	<!-- BEGIN PAGE 4 -->  	   
+	   
+<section class="page4">
+	<div class="page_container anim">
+		<h1>Our Team</h1>
+		<h2>We love what we do</h2>
+
+	<hr class="half-rule">
+
+		  
+	<div id="carousel-example-generic1" class="carousel slide" data-ride="carousel">
+	  <!-- Indicators -->
+	  <ol class="carousel-indicators">
+		<li data-target="#carousel-example-generic1" data-slide-to="0" class="active"></li>
+		<li data-target="#carousel-example-generic1" data-slide-to="1"></li>
+	  </ol>
+
+	  <!-- Wrapper for slides -->
+	<div class="carousel-inner">
+		<div class="item active">
+			<ul class="ch-grid portraits">
+				<li>	
+				<div class="ch-item" style="background-image:url('data/about-us-avatar-1.jpg');">
+						<div class="ch-info">
+							<p>	<a href="#yourlinkhere"><i class="icon">F</i></a>
+								<a href="#yourlinkhere"><i class="icon">L</i></a>
+								<a href="#yourlinkhere"><i class="icon">I</i></a>
+							</p>
+						</div>
+				</div>
+						<span class="name">Nick Boris</span><br>
+						<span class="poste">CEO/FOUNDER</span><br>
+						<span class="whathedo">
+						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
+						</span>
+				</li>
+				
+				<li>	
+				<div class="ch-item" style="background-image: url('data/about-us-avatar-2.jpg');">
+					<div class="ch-info">
+							<p>	
+							<a href="#yourlinkhere"><i class="icon">F</i></a>
+							<a href="#yourlinkhere"><i class="icon">L</i></a>
+							<a href="#yourlinkhere"><i class="icon">I</i></a>
+							</p>
+					</div>
+				</div>
+						<span class="name">John Morgan</span><br>
+						<span class="poste">CEO/FOUNDER</span><br>
+						<span class="whathedo">
+						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
+						</span>
+				</li>
+				
+				<li>	
+				<div class="ch-item" style="background-image: url('data/about-us-avatar-3.jpg');">
+					<div class="ch-info">
+						<p>						
+						<a href="#yourlinkhere"><i class="icon">F</i></a>
+						<a href="#yourlinkhere"><i class="icon">L</i></a>
+						<a href="#yourlinkhere"><i class="icon">I</i></a>
+						</p>
+					</div>
+				</div>
+						<span class="name">Jane Smith</span><br>
+						<span class="poste">FINANCE DIRECTOR</span><br>
+						<span class="whathedo">
+						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
+						</span>
+				</li>
+				
+				<li>	
+				<div class="ch-item" style="background-image: url('data/about-us-avatar-4.jpg');">
+					<div class="ch-info">
+						<p>						
+						<a href="#yourlinkhere"><i class="icon">F</i></a>
+						<a href="#yourlinkhere"><i class="icon">L</i></a>
+						<a href="#yourlinkhere"><i class="icon">I</i></a>
+						</p>
+					</div>
+				</div>
+						<span class="name">Barbara Posti</span><br>
+						<span class="poste">SALES DIRECTOR</span><br>
+						<span class="whathedo">
+						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
+						</span>
+				</li>
+				
+			</ul>
+		</div>
+		
+		<div class="item">
+			<ul class="ch-grid portraits">
+
+				<li>	
+				<div class="ch-item" style="background-image: url('data/about-us-avatar-5.jpg');">
+					<div class="ch-info">
+						<p>						
+						<a href="#yourlinkhere"><i class="icon">F</i></a>
+						<a href="#yourlinkhere"><i class="icon">L</i></a>
+						<a href="#yourlinkhere"><i class="icon">I</i></a>
+						</p>
+					</div>
+				</div>
+						<span class="name">Jessica Ridge</span><br>
+						<span class="poste">CONSULTANT</span><br>
+						<span class="whathedo">
+						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
+						</span>
+				</li>
+				
+				<li>	
+				<div class="ch-item" style="background-image: url('data/about-us-avatar-6.jpg');">
+						<div class="ch-info">
+							<p>					
+							<a href="#yourlinkhere"><i class="icon">F</i></a>
+							<a href="#yourlinkhere"><i class="icon">L</i></a>
+							<a href="#yourlinkhere"><i class="icon">I</i></a>
+							</p>
+						</div>
+				</div>
+						<span class="name">SAMANTHA JONES</span><br>
+						<span class="poste">CONSULTANT</span><br>
+						<span class="whathedo">
+						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
+						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
+						</span>
+				</li>
+				
+			</ul>
+		</div>
+			
+	</div>
+	</div>
+	</div>
+</section>	   
+  
+	   
+	<!-- BEGIN PAGE 5 -->  		   
+  
+	<section class="page5 contact" id="contact">
+	<div class="page_container">
+		  <div class="top-image anim2">
+            <img alt="Contacts" src="data/contact.jpg">
+          </div>
+          <h1>Contact</h1>
+          <h2>Feel free to ask your questions in the most convenient way for you.</h2>
+		  <hr class="half-rule">
+		  <div class="row">
+			<div class="col2">
+			<h4>OUR LOCATION</h4>
+			<p>5000 Paris</p>
+			<p>Rue Rambuteau, 67</p>
+			<p>France </p>
+
+			<h4>SALES DEPARTMENT</h4>
+			<p>tel: 55 444 777</p>
+			<p><a href="#">seles@sitename.com</a></p>
+
+			<h4>SUPPORT DEPARTMENT</h4>
+			<p>tel: 55 888 666</p>
+			<p><a href="#">support@sitename.com</a></p>													
+			</div>		
+			<div class="col1 ">
+				<form name="htmlform" method="post" class="peThemeContactForm">
+					<div class="control-group">
+						<label>Name<span class="required">*</span></label>
+						<input type="text" name="author" class="required" placeholder="Your Name" required="" data-fieldid="0">
+					</div>
+					<div class="control-group">
+						<label>Email<span class="required">*</span></label>
+						<input type="email" name="email" class="required" placeholder="Your E-Mail" data-validation="email" required="" data-fieldid="1">
+					</div>
+					<div class="control-group">
+						<label>Message<span class="required">*</span></label>
+						<textarea name="message" cols="1" rows="5" class="required" placeholder="Your Message" required="" data-fieldid="2"></textarea>
+					</div>
+					<button name="send" type="submit" dir="ltr" lang="en" class="submit">Send</button>
+				</form>
+				
+				<!--alert success-->
+				<div id="contactFormSent" class="formSent alert alert-success fade in" style="display: none;">
+					<strong>Yay!</strong> Message sent.				</div>
+			
+				<!--alert error-->
+				<div id="contactFormError" class="formError alert alert-error fade in" style="display: none;">
+					<strong>Error!</strong> See marked fields.				</div>
+			</div>
+		</div>
+
+  	</div>
+	</section>  
+
+    </div>
+   
+  </div>
+  
+</body>
+</html>
