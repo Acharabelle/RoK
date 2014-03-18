@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\GitHub\RoK\WebSite\RoK\RoK\bin\RoK.dll.config
+C:\Users\Owner\Documents\GitHub\RoK\WebSite\RoK\RoK\bin\RoK.dll
+C:\Users\Owner\Documents\GitHub\RoK\WebSite\RoK\RoK\bin\RoK.pdb
+C:\Users\Owner\Documents\GitHub\RoK\WebSite\RoK\RoK\obj\Debug\RoK.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\RoK\WebSite\RoK\RoK\obj\Debug\RoK.dll
+C:\Users\Owner\Documents\GitHub\RoK\WebSite\RoK\RoK\obj\Debug\RoK.pdb
