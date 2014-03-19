@@ -675,7 +675,8 @@ padding: 0;
 margin-bottom: 15px;
 font-size: 40px;
 letter-spacing: -1px;
-color: white;
+color: #228b22;
+font-weight:bold
 }
 
 .main section.page4 h2 {
@@ -684,6 +685,8 @@ text-align: center;
 font-size: 25px;
 font-weight: 100;
 margin:0 0 20px 0;
+color: #e5c100;
+font-weight:bold
 }
 
 .viewing-page-4 .back{
