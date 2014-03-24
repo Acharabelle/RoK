@@ -61,11 +61,15 @@
     <Content Include="bootstrap\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="bootstrap\fonts\glyphicons-halflings-regulard41d.eot" />
+    <Content Include="css\jcarousel.basic.css" />
     <Content Include="default.html" />
     <Content Include="fonts\fontawesome-webfontba72.eot" />
     <Content Include="fonts\fontawesome-webfontba72.ttf" />
     <Content Include="fonts\fontawesome-webfontba72.woff" />
     <Content Include="fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="images\colorized_drawing.jpg" />
+    <Content Include="images\Win2.JPG" />
+    <Content Include="js\jCarousel-0.3.0.js" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -105,9 +109,13 @@
     <Content Include="fontÑ\Socialico-3.html" />
     <Content Include="fontÑ\Socialico.html" />
     <Content Include="fontÑ\Socialicod41d.html" />
+    <Content Include="images\left_arrow.jpg" />
     <Content Include="images\raster%402x.gif" />
     <Content Include="images\raster.gif" />
+    <Content Include="images\right_arrow.jpg" />
+    <Content Include="images\Win1.JPG" />
     <Content Include="img\pattern.png" />
+    <Content Include="js\jcarousel.basic.js" />
     <Content Include="js\jquery-1.9.1.js" />
     <Content Include="js\scroll.js" />
     <Content Include="js\video_header.js" />

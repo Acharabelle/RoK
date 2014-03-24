@@ -11,7 +11,7 @@
 	<link href='bootstrap/css/bootstrap.css' rel='stylesheet' type='text/css'>
 	<link href='css/font-awesome.css' rel='stylesheet' type='text/css'>
 
-	<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
   <script type="text/javascript" src="js/scroll.js"></script>
   <link href='css/scroll.css' rel='stylesheet' type='text/css'>
   <meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, minimum-scale=1, user-scalable=no">
@@ -19,6 +19,9 @@
    <link href='css/common.css' rel='stylesheet' type='text/css'>
   <link href='css/anim.css' rel='stylesheet' type='text/css'>
   <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/jCarousel-0.3.0.js"></script>
+    <script type="text/javascript" src="js/jcarousel.basic.js"></script>
+    <link href='css/jcarousel.basic.css' rel='stylesheet' type='text/css'>
   
   	<script type="text/javascript" src="js/video_header.js"></script>
 	<link href="css/video_header.css" media="all" rel="stylesheet" type="text/css">
@@ -306,149 +309,113 @@
 	<!-- BEGIN PAGE 4 -->  	   
 	   
 <section class="page4">
-	<div class="page_container anim">
-		<h1>Gallery</h1>
-		<h2>Click on a picture below for more information</h2>
+    <div class="page_container anim">
+        <div class="text-box">
+            <div class="text">
+                <h1>Gallery</h1>
+                <h2>Click on a picture below for more information</h2>
+            </div>
+        </div>1
 
-	<hr class="half-rule">
+        <!--<hr class="half-rule">-->
+        <div class="jcarousel-wrapper">
+            <div class="carousel-frame">
+                <div class="jcarousel">
+                    <ul style="left: 0px; top: 0px;">
+                        <li><img src="images/Win1.jpg" width="600" height="400" alt=""></li>
+                        <li><img src="images/Win2.jpg" width="600" height="400" alt=""></li>
+                        <li><img src="images/colorized_drawing.jpg" width="600" height="400" alt=""></li>
+                    </ul>
+                    <p class="jcarousel-pagination" data-jcarouselpagination="true">
+                        <a href="#1">1</a>
+                        <a href="#2">2</a>
+                        <a href="#3">3</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+        
+            <!--<div id="carousel-example-generic1" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+            <!--<ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic1" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic1" data-slide-to="1"></li>
+            </ol>-->
 
-		  
-	<div id="carousel-example-generic1" class="carousel slide" data-ride="carousel">
-	  <!-- Indicators -->
-	  <ol class="carousel-indicators">
-		<li data-target="#carousel-example-generic1" data-slide-to="0" class="active"></li>
-		<li data-target="#carousel-example-generic1" data-slide-to="1"></li>
-	  </ol>
+            <!-- Wrapper for slides -->
+            <!--<div class="carousel-inner">
+                <div class="item active">
+                    <ul class="ch-grid portraits">
+                        <li>
+                            <div class="ch-item" style="background-image:url('images/IMG_2327.JPG');">
+                                <div class="ch-info">
+                                    <p>
+                                        <a href="#yourlinkhere"><i class="icon"></i>Click here for the data entry</a>
+                                        <a href="#yourlinkhere"><i class="icon"></i>Click here for more images like this</a>
+                                    </p>
+                                </div>
+                            </div>
+                            <span class="name">Pane 1</span><br>
+                            <span class="poste">Completion Date: </span><br>-->
+                            <!--<span class="whathedo">
+                        <a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
+                        <a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
+                        <a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
+                        </span>-->
+                        <!--</li>
 
-	  <!-- Wrapper for slides -->
-	<div class="carousel-inner">
-		<div class="item active">
-			<ul class="ch-grid portraits">
-				<li>	
-				<div class="ch-item" style="background-image:url('data/about-us-avatar-1.jpg');">
-						<div class="ch-info">
-							<p>	<a href="#yourlinkhere"><i class="icon">F</i></a>
-								<a href="#yourlinkhere"><i class="icon">L</i></a>
-								<a href="#yourlinkhere"><i class="icon">I</i></a>
-							</p>
-						</div>
-				</div>
-						<span class="name">Nick Boris</span><br>
-						<span class="poste">CEO/FOUNDER</span><br>
-						<span class="whathedo">
-						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
-						</span>
-				</li>
-				
-				<li>	
-				<div class="ch-item" style="background-image: url('data/about-us-avatar-2.jpg');">
-					<div class="ch-info">
-							<p>	
-							<a href="#yourlinkhere"><i class="icon">F</i></a>
-							<a href="#yourlinkhere"><i class="icon">L</i></a>
-							<a href="#yourlinkhere"><i class="icon">I</i></a>
-							</p>
-					</div>
-				</div>
-						<span class="name">John Morgan</span><br>
-						<span class="poste">CEO/FOUNDER</span><br>
-						<span class="whathedo">
-						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
-						</span>
-				</li>
-				
-				<li>	
-				<div class="ch-item" style="background-image: url('data/about-us-avatar-3.jpg');">
-					<div class="ch-info">
-						<p>						
-						<a href="#yourlinkhere"><i class="icon">F</i></a>
-						<a href="#yourlinkhere"><i class="icon">L</i></a>
-						<a href="#yourlinkhere"><i class="icon">I</i></a>
-						</p>
-					</div>
-				</div>
-						<span class="name">Jane Smith</span><br>
-						<span class="poste">FINANCE DIRECTOR</span><br>
-						<span class="whathedo">
-						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
-						</span>
-				</li>
-				
-				<li>	
-				<div class="ch-item" style="background-image: url('data/about-us-avatar-4.jpg');">
-					<div class="ch-info">
-						<p>						
-						<a href="#yourlinkhere"><i class="icon">F</i></a>
-						<a href="#yourlinkhere"><i class="icon">L</i></a>
-						<a href="#yourlinkhere"><i class="icon">I</i></a>
-						</p>
-					</div>
-				</div>
-						<span class="name">Barbara Posti</span><br>
-						<span class="poste">SALES DIRECTOR</span><br>
-						<span class="whathedo">
-						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
-						</span>
-				</li>
-				
-			</ul>
-		</div>
-		
-		<div class="item">
-			<ul class="ch-grid portraits">
+                    </ul>
+                </div>---->
 
-				<li>	
-				<div class="ch-item" style="background-image: url('data/about-us-avatar-5.jpg');">
-					<div class="ch-info">
-						<p>						
-						<a href="#yourlinkhere"><i class="icon">F</i></a>
-						<a href="#yourlinkhere"><i class="icon">L</i></a>
-						<a href="#yourlinkhere"><i class="icon">I</i></a>
-						</p>
-					</div>
-				</div>
-						<span class="name">Jessica Ridge</span><br>
-						<span class="poste">CONSULTANT</span><br>
-						<span class="whathedo">
-						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
-						</span>
-				</li>
-				
-				<li>	
-				<div class="ch-item" style="background-image: url('data/about-us-avatar-6.jpg');">
-						<div class="ch-info">
-							<p>					
-							<a href="#yourlinkhere"><i class="icon">F</i></a>
-							<a href="#yourlinkhere"><i class="icon">L</i></a>
-							<a href="#yourlinkhere"><i class="icon">I</i></a>
-							</p>
-						</div>
-				</div>
-						<span class="name">SAMANTHA JONES</span><br>
-						<span class="poste">CONSULTANT</span><br>
-						<span class="whathedo">
-						<a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
-						<a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
-						</span>
-				</li>
-				
-			</ul>
-		</div>
-			
-	</div>
-	</div>
-	</div>
+                <!--<div class="item">
+                    <ul class="ch-grid portraits">
+
+                        <li>
+                            <div class="ch-item" style="background-image: url('data/about-us-avatar-5.jpg');">
+                                <div class="ch-info">
+                                    <p>
+                                        <a href="#yourlinkhere"><i class="icon">F</i></a>
+                                        <a href="#yourlinkhere"><i class="icon">L</i></a>
+                                        <a href="#yourlinkhere"><i class="icon">I</i></a>
+                                    </p>
+                                </div>
+                            </div>
+                            <span class="name">Jessica Ridge</span><br>
+                            <span class="poste">CONSULTANT</span><br>
+                            <span class="whathedo">
+                                <a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
+                                <a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
+                                <a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
+                            </span>
+                        </li>
+
+                        <li>
+                            <div class="ch-item" style="background-image: url('data/about-us-avatar-6.jpg');">
+                                <div class="ch-info">
+                                    <p>
+                                        <a href="#yourlinkhere"><i class="icon">F</i></a>
+                                        <a href="#yourlinkhere"><i class="icon">L</i></a>
+                                        <a href="#yourlinkhere"><i class="icon">I</i></a>
+                                    </p>
+                                </div>
+                            </div>
+                            <span class="name">SAMANTHA JONES</span><br>
+                            <span class="poste">CONSULTANT</span><br>
+                            <span class="whathedo">
+                                <a href="#yourlinkhere"><i class="icon_mobile">F</i></a>
+                                <a href="#yourlinkhere"><i class="icon_mobile">L</i></a>
+                                <a href="#yourlinkhere"><i class="icon_mobile">I</i></a>
+                            </span>
+                        </li>
+
+                    </ul>
+                </div>-->
+
+            <!--</div>-->
+        <!--</div>
+	</div>-->
 </section>	   
   
 	   
