@@ -1,51 +1,51 @@
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\RootsOfKnowledge.dll.config
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\RootsOfKnowledge.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\RootsOfKnowledge.pdb
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Antlr3.Runtime.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\AspNet.ScriptManager.bootstrap.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\AspNet.ScriptManager.jQuery.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\EntityFramework.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\EntityFramework.SqlServer.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.FriendlyUrls.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.ScriptManager.MSAjax.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.ScriptManager.WebForms.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Newtonsoft.Json.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Owin.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\System.Web.Optimization.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\System.Web.Providers.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\WebGrease.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\System.Web.Optimization.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Antlr3.Runtime.pdb
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Newtonsoft.Json.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.FriendlyUrls.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\EntityFramework.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\EntityFramework.SqlServer.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\obj\Debug\RootsOfKnowledge.csprojResolveAssemblyReference.cache
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\obj\Debug\RootsOfKnowledge.dll
-C:\Users\Sean2\Documents\Visual Studio 2013\RootsOfKnowledge\RootsOfKnowledge\obj\Debug\RootsOfKnowledge.pdb
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\RootsOfKnowledge.dll.config
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\RootsOfKnowledge.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\RootsOfKnowledge.pdb
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Antlr3.Runtime.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\EntityFramework.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\EntityFramework.SqlServer.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Newtonsoft.Json.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Owin.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\System.Web.Optimization.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\System.Web.Providers.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\WebGrease.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\System.Web.Optimization.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Antlr3.Runtime.pdb
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Newtonsoft.Json.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\EntityFramework.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\EntityFramework.SqlServer.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\obj\Debug\RootsOfKnowledge.csprojResolveAssemblyReference.cache
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\obj\Debug\RootsOfKnowledge.dll
+C:\Users\Sean2\Documents\GitHub\RoK\RootsOfKnowledge\RootsOfKnowledge\obj\Debug\RootsOfKnowledge.pdb
